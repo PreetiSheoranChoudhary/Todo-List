@@ -1,59 +1,8 @@
 {
   "task": [
     {
-      "id": "1",
-      "name": "Learn Next.js",
-      "completed": "true"
-    },
-    {
-      "id": "2",
-      "name": "build project",
-      "completed": "false"
-    },
-    {
-      "id": "3",
-      "name": "go to gym",
-      "completed": "false"
-    },
-    {
-      "id": "4",
-      "name": "hellooooo",
-      "completed": "false"
-    },
-    {
-      "id": "5",
-      "name": "this is my 5th task",
-      "completed": "false"
-    },
-    {
-      "id": "6",
-      "name": "6th task",
-      "completed": "false"
-    },
-    {
-      "id": "7",
-      "name": "7th ",
-      "completed": "false"
-    },
-    {
-      "id": "8",
-      "name": "8th",
-      "completed": "false"
-    },
-    {
-      "id": "9",
-      "name": "9th entery",
-      "completed": "false"
-    },
-    {
-      "id": "10",
-      "name": "10th",
-      "completed": "false"
-    },
-    {
-      "id": "11",
-      "name": "helloo",
-      "completed": "false"
+      "id": "4e879afd-2014-45ca-b177-2a92fc6729af",
+      "text": "learn react quick "
     }
   ]
 }
